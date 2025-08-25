@@ -1,0 +1,1 @@
+利用exec的语法特性实现静态免杀，这是初步实现，可以加很多东西，我还写了个生成loader的工具，便于红队直接使用 Using the syntax characteristics of exec to achieve static anti-killing, this is a preliminary implementation, and a lot of things can be added. I also wrote a tool to generate loader for the red team to use directly
